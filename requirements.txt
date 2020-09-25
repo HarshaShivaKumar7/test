@@ -2,3 +2,4 @@ django
 React.JS
 Vue.JS
 
+Python
